@@ -1,0 +1,75 @@
+District,Facility Type,Total No. of Facilities #,No. of facilities reporting nil performance *,Performance - Overall Average **,Performance - Maximum,Performance - Minimum,No. of facilities by performance - 1 to 30,No. of facilities by performance - 31 to 150,No. of facilities by performance - 151 to 300,No. of facilities by performance - >300
+Alipurduar,DH,2,1,274,274,274,0,0,1,0
+Alipurduar,SDH,2,1,64,64,64,0,1,0,0
+Bankura,DH,4,1,302,487,93,0,1,0,2
+Bankura,CHC,23,9,179,607,6,2,4,6,2
+Birbhum,DH,2,0,561,589,534,0,0,0,2
+Birbhum,SDH,1,0,3005,3005,3005,0,0,0,1
+Birbhum,CHC,19,18,831,831,831,0,0,0,1
+Dakshin Dinajpur,DH,1,0,624,624,624,0,0,0,1
+Dakshin Dinajpur,SDH,1,0,37,37,37,0,1,0,0
+Dakshin Dinajpur,CHC,9,5,135,144,118,0,4,0,0
+Darjiling,DH,2,0,462,677,248,0,0,1,1
+Darjiling,SDH,1,0,70,70,70,0,1,0,0
+Darjiling,CHC,10,9,13,13,13,1,0,0,0
+Haora,DH,1,0,1089,1089,1089,0,0,0,1
+Haora,SDH,7,1,272,1132,3,3,1,0,2
+Haora,CHC,19,13,145,459,16,1,3,1,1
+Hugli,DH,1,0,1825,1825,1825,0,0,0,1
+Hugli,SDH,4,0,460,921,209,0,0,2,2
+Hugli,CHC,22,10,201,1021,7,5,3,2,2
+Hugli,PHC,91,89,8,9,8,2,0,0,0
+Jalpaiguri,DH,1,0,315,315,315,0,0,0,1
+Jalpaiguri,SDH,1,0,100,100,100,0,1,0,0
+Jalpaiguri,CHC,9,7,46,65,28,1,1,0,0
+Jhargram,DH,3,0,586,618,562,0,0,0,3
+Jhargram,CHC,8,3,131,303,1,1,3,0,1
+Jhargram,PHC,26,8,102,337,5,5,8,4,1
+Kalimpong,SDH,1,0,190,190,190,0,0,1,0
+Kalimpong,CHC,3,1,93,103,83,0,2,0,0
+Kalimpong,PHC,6,1,14,26,4,5,0,0,0
+Koch Bihar,DH,1,0,335,335,335,0,0,0,1
+Koch Bihar,SDH,4,0,415,954,125,0,1,1,2
+Koch Bihar,CHC,12,8,79,181,20,2,1,1,0
+Koch Bihar,PHC,38,37,7,7,7,1,0,0,0
+Kolkata,DH,11,9,206,237,175,0,0,2,0
+Kolkata,SDH,7,4,65,107,24,1,2,0,0
+Kolkata,CHC,5,4,61,61,61,0,1,0,0
+Kolkata,PHC,155,113,20,102,1,33,9,0,0
+Maldah,SDH,1,0,2,2,2,1,0,0,0
+Maldah,CHC,17,13,214,463,3,1,1,1,1
+Murshidabad,DH,1,0,101,101,101,0,1,0,0
+Murshidabad,SDH,4,0,954,2211,160,0,0,1,3
+Murshidabad,CHC,27,17,355,744,21,1,2,2,5
+Murshidabad,PHC,81,79,41,70,13,1,1,0,0
+Nadia,DH,1,0,2818,2818,2818,0,0,0,1
+Nadia,SDH,6,0,407,823,64,0,1,1,4
+Nadia,CHC,18,11,137,429,19,1,4,1,1
+Nadia,PHC,65,62,195,358,42,0,1,1,1
+North Twenty Four Parganas,DH,2,0,3578,4994,2162,0,0,0,2
+North Twenty Four Parganas,SDH,10,1,293,1263,38,0,2,6,1
+North Twenty Four Parganas,CHC,35,29,41,75,4,2,4,0,0
+North Twenty Four Parganas,PHC,149,148,10,10,10,1,0,0,0
+Paschim Barddhaman,DH,1,0,1489,1489,1489,0,0,0,1
+Paschim Barddhaman,SDH,1,0,242,242,242,0,0,1,0
+Paschim Barddhaman,CHC,23,19,337,733,198,0,0,3,1
+Paschim Medinipur,SDH,2,0,1358,2480,236,0,0,1,1
+Paschim Medinipur,CHC,21,13,159,993,10,2,5,0,1
+Paschim Medinipur,PHC,69,66,62,123,24,1,2,0,0
+Purba Barddhaman,SDH,2,0,907,940,874,0,0,0,2
+Purba Barddhaman,CHC,27,13,155,511,32,0,9,4,1
+Purba Medinipur,DH,3,1,155,161,149,0,1,1,0
+Purba Medinipur,SDH,4,0,258,654,98,0,2,1,1
+Purba Medinipur,CHC,24,14,88,385,9,1,8,0,1
+Purba Medinipur,PHC,59,56,33,49,7,1,2,0,0
+Puruliya,DH,1,0,376,376,376,0,0,0,1
+Puruliya,SDH,1,0,422,422,422,0,0,0,1
+Puruliya,CHC,20,13,159,366,17,1,3,1,2
+South Twenty Four Parganas,DH,2,0,5392,10197,588,0,0,0,2
+South Twenty Four Parganas,SDH,7,0,460,1588,85,0,3,1,3
+South Twenty Four Parganas,CHC,34,27,89,349,3,3,3,0,1
+South Twenty Four Parganas,PHC,79,77,39,58,20,1,1,0,0
+Uttar Dinajpur,DH,1,0,805,805,805,0,0,0,1
+Uttar Dinajpur,SDH,2,1,1028,1028,1028,0,0,0,1
+Uttar Dinajpur,CHC,10,8,82,144,20,1,1,0,0
+Uttar Dinajpur,PHC,24,23,46,46,46,0,1,0,0
